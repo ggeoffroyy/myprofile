@@ -1,0 +1,112 @@
+
+
+body {
+	    background: rgb(230, 230, 230);
+    color: #313039;
+font-weight: lighter;
+font-family: 'Roboto Slab', serif;
+font-size: 14px;
+
+}
+
+
+h1, h2,h4,h5 {
+	font-family: 'Roboto', sans-serif;
+
+}
+
+a {
+	text-decoration:  none;
+	color: black;
+}
+
+h1 {
+
+	font-weight:1000;
+	font-size: 30px;
+	color: #39468D;
+
+}
+
+h2 {
+	font-weight:800;
+	font-size: 25px;
+	color: #39468D;
+
+}
+ 
+ h4 {
+ 	font-weight:400;
+	font-size: 20px;
+	color: #8195dc;
+ }
+ a:hover {
+ 	color: whitesmoke;
+ }
+
+ h5 {
+ 	font-size: 18px;
+ 	color: #474760;
+font-weight: 400;
+ 	
+
+ 
+
+ }
+ #IESEG {
+ 	width: 2000px;
+
+ }
+
+
+
+.cardwhite {
+    background: white;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    text-align: center;
+
+}
+
+.container {	
+	width: 2000px;
+	margin: 10px auto;
+
+}
+
+.img-circle {
+	width: 200px;
+
+}
+
+
+.bouton {
+	background-color: #39468D;
+	color: white;
+	padding: 15px 20px;
+}
+
+.bouton:hover{	
+background-color: #8195dc;}
+
+.list-follow{
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+.list-follow li{
+	display: inline;
+	padding: 10px;
+}
+
+.list-follow i{
+	font-size: 100px;
+	color: rgb(230, 230, 230);
+}
+
+.list-follow i:hover{
+	color: #39468D;
+}
